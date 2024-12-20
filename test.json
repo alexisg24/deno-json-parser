@@ -1,0 +1,9 @@
+{
+    "name": "Alice",
+    "age": 25,
+    "languages": ["English", "Spanish"],
+    "isStudent": false,
+    "address": {
+        "street": "123 Main St"
+    }
+  }
